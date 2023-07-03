@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Dear 👋
 
 Hello, I am Bambi.
 I am a full stack web developer and food industry engineer; Till now writed various sites with Django as backend and React as the frontend.
