@@ -1,3 +1,8 @@
+
+
+
+
+# 💫 About Me:
 ### Hi Dear 👋
 
 Hello, I am Bambi.
@@ -7,12 +12,6 @@ I am very interested in learning and I hope to learn something new even from the
 
 
 #WomenLifeFreedom
-
-
-
-
-# 💫 About Me:
-I'm Python developer 💔
 
 
 # 💻 Tech Stack:
